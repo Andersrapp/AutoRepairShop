@@ -1,0 +1,95 @@
+.form-input-field, .search-field{
+    width:240px;
+}
+.form-input-title, .search-field-title{
+    clear:both;
+    width:180px;
+    float:left;
+    text-align: right;
+    margin-right:20px;
+}
+
+#button-wrapper{
+    margin-bottom: 10px;
+    width:240px;
+    margin:auto;
+}
+
+#search-wrapper{
+    text-align:left;
+    width:640px;
+    margin:auto;
+    padding-top:20px;
+}
+
+#form-wrapper{
+    clear:both;
+    margin-top:15px;
+    text-align:left;
+}
+#input-wrapper{
+    padding-top:10px;
+    width:640px;
+    margin:auto;
+}
+
+.form-button{
+    margin-left:10px;
+}
+#form-clear-button, #form-new-button{
+    margin-left:0px;
+}
+
+.form-search-button{
+    margin-left:10px;
+}
+
+#search-wrapper{
+    margin-top:10px;
+}
+
+#social-security-number{
+    disabled: true;
+}
+#table-wrapper{
+    margin:auto;
+    margin-top:20px;
+}
+
+#social-security-number{
+    disabled: true !important;
+}
+
+.show-all-table{
+    margin:auto;
+
+}
+
+#set-date{
+    margin-left:200px;
+}
+
+.statistic-title{
+    border:1px solid black;
+    width: 75px;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.show-all-table-title{
+    border:1px solid black;
+    margin-left: 10px;
+    padding-left:15px;
+    padding-right:15px;
+}
+
+.show-all-table{
+    border:1px solid black;
+    margin:30px auto;
+    margin-bottom:30px;
+}
+
+#workType-wrapper, #activeOrder-wrapper{
+    width:240px;
+    margin:auto;
+}
